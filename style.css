@@ -17,7 +17,7 @@ h1 {
     width: 100%;
 }
 
-h3 {
+h3, h4 {
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
